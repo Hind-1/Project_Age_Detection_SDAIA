@@ -1,4 +1,4 @@
-# Age Detection Proposal
+# Project Age Detection 
 ## Overview
 Recently, many applications using biometrics to extract information from face images such as age, gender, and emotional state. So, in this project we're going to use facial features analysis to estimate the age. The main objective of this project is to use deep-learning algorithms in order to estimate the age from facial image.
 
