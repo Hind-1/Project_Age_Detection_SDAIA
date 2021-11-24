@@ -11,7 +11,7 @@ The tools we will use in our project:
 python, and Jupyter Notebook.
 The python libraries:
 
-pandas
+- pandas
 matplotlib
 numpy
 seaborn
