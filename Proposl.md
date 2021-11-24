@@ -12,9 +12,9 @@ python, and Jupyter Notebook.
 The python libraries:
 
 - pandas
-matplotlib
-numpy
-seaborn
-scikit-learn
-Keras
-Tensorflow
+- matplotlib
+- numpy
+- seaborn
+- scikit-learn
+- Keras
+- Tensorflow
