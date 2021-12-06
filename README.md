@@ -6,6 +6,6 @@
 Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.
 
 In this project we're going to use facial features analysis to estimate the age. The main objective of this project is to use deep-learning algorithms in order to estimate the age from facial image.
-# For future works
+# Future works
 we will consider a deeper CNN architecture an exact age estimation. Also, the apparent age estimation of human’s face will be interesting research to investigate in the future.
 
